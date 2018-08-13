@@ -1,1 +1,2 @@
-# FirstRepo
+# Playing with GitHub is fuuun
+
